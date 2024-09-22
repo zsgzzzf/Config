@@ -14,7 +14,7 @@ adguardhome核心地址：[点击这里](https://github.com/AdguardTeam/AdGuardH
 
 订阅后端subconverter支持文档：[点击这里](https://github.com/tindy2013/subconverter/blob/master/README-cn.md)
 
-规则集地址：[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash)    [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash)     [银行金融](https://github.com/StricklandF/Filter)
+规则集地址：[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash)    [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash)     [银行金融(需要修改后使用)](https://github.com/StricklandF/Filter)
 
 规则文件：[点击这里](https://drive.google.com/drive/folders/1j2uMkA_R8ppINtKkQY78gJrBJjBPtJia)
 
