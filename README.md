@@ -256,4 +256,4 @@ custom_proxy_group=g1hkselect!!GROUPID=1-2!!(HGC|HKBN|PCCW|HKT|hk|港)(?!.*(深�
 
 custom_proxy_group=g1hkselect!!GROUPID=!0!!(HGC|HKBN|PCCW|HKT|hk|港)(?!.*(深港|家宽))
 
-# 属于订阅链接中除了第一条订阅且名字含 HGC、HKBN、PCCW、HKT、hk、港 的节点并且排除深港\家宽
+@ 属于订阅链接中除了第一条订阅且名字含 HGC、HKBN、PCCW、HKT、hk、港 的节点并且排除深港\家宽
