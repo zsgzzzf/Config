@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,promote-image-us-1251001049.cos.accelerate.myqcloud.com
 DOMAIN-SUFFIX,sg.moomoo.com
 DOMAIN-SUFFIX,us.moomoo.com
 DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomoobull.com
 
 # SG IP
 IP-CIDR,43.134.158.60/32,no-resolve
