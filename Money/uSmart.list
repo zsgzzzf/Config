@@ -1,41 +1,41 @@
 ## uSMART (HK & SG) - 2024.08.05
 
 # HK
-host, www.usmart.hk, uSmart
-host, hz.yxzq.com, uSmart
-host, jy.yxzq.com, uSmart
-host, sc.yxzq.com, uSmart
-host, wj.yxzq.com, uSmart
-host, m.yxzq.com, uSmart
-host, web-prd-1257884527.cos.ap-guangzhou.myqcloud.com, uSmart
-host, web-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com, uSmart
-host, web-static-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com, uSmart
-host, jy-common-prd-1257884527.cos.ap-guangzhou.myqcloud.com, uSmart
-host, jy-common-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com, uSmart
-host, jy-common-rich-prd-hongkong-1305919280.cos.ap-hongkong.myqcloud.com, uSmart
-host, hq-prod-news-server-1257884527.file.myqcloud.com, uSmart
-host, hq-prod-news-server-1257884527.cos.ap-chengdu.myqcloud.com, uSmart
-host, hq-news-server-1257884527.cos.ap-guangzhou.myqcloud.com, uSmart
-host, web-static-rich-prd-hongkong-1305919280.cos.ap-hongkong.myqcloud.com, uSmart
-host, mlvbdc.live.qcloud.com, uSmart
-host, license.vod2.myqcloud.com, uSmart
-host-suffix, yxzq.com, uSmart
-host-suffix, usmart.hk, uSmart
-ip-cidr, 120.77.252.10/32, uSmart
-ip-cidr, 120.77.150.199/32, uSmart
+DOMAIN-SUFFIX,www.usmart.hk
+DOMAIN-SUFFIX,hz.yxzq.com
+DOMAIN-SUFFIX,jy.yxzq.com
+DOMAIN-SUFFIX,sc.yxzq.com
+DOMAIN-SUFFIX,wj.yxzq.com
+DOMAIN-SUFFIX,m.yxzq.com
+DOMAIN-SUFFIX,web-prd-1257884527.cos.ap-guangzhou.myqcloud.com
+DOMAIN-SUFFIX,web-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
+DOMAIN-SUFFIX,web-static-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
+DOMAIN-SUFFIX,jy-common-prd-1257884527.cos.ap-guangzhou.myqcloud.com
+DOMAIN-SUFFIX,jy-common-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
+DOMAIN-SUFFIX,jy-common-rich-prd-hongkong-1305919280.cos.ap-hongkong.myqcloud.com
+DOMAIN-SUFFIX,hq-prod-news-server-1257884527.file.myqcloud.com
+DOMAIN-SUFFIX,hq-prod-news-server-1257884527.cos.ap-chengdu.myqcloud.com
+DOMAIN-SUFFIX,hq-news-server-1257884527.cos.ap-guangzhou.myqcloud.com
+DOMAIN-SUFFIX,web-static-rich-prd-hongkong-1305919280.cos.ap-hongkong.myqcloud.com
+DOMAIN-SUFFIX,mlvbdc.live.qcloud.com
+DOMAIN-SUFFIX,license.vod2.myqcloud.com
+DOMAIN-SUFFIX,yxzq.com
+DOMAIN-SUFFIX,uSmart.hk
+IP-CIDR,120.77.252.10/32,no-resolve
+IP-CIDR,120.77.150.199/32,no-resolve
 
 # SG
-host, www.usmart.sg, uSmart
-host, sc.usmartsg.com, uSmart
-host, jy.usmartsg.com, uSmart
-host, hz.usmartsg.com, uSmart
-host, m.usmartsg.com, uSmart
-host, usmartglobal.zendesk.com, uSmart
-host, jy-common-sg-prd-singapore-1257884527.cos.ap-singapore.myqcloud.com, uSmart
-host-suffix, usmartsg.com, uSmart
-host-suffix, usmart.sg, uSmart
-host-suffix, usmartglobal.com, uSmart
-host-suffix, usmartgroup.com, uSmart
-host-keyword, usmart, uSmart
-ip-cidr, 47.107.247.183/32, uSmart
-ip-cidr, 47.242.214.131/32, uSmart
+DOMAIN-SUFFIX,www.usmart.sg
+DOMAIN-SUFFIX,sc.usmartsg.com
+DOMAIN-SUFFIX,jy.usmartsg.com
+DOMAIN-SUFFIX,hz.usmartsg.com
+DOMAIN-SUFFIX,m.usmartsg.com
+DOMAIN-SUFFIX,uSmartglobal.zendesk.com
+DOMAIN-SUFFIX,jy-common-sg-prd-singapore-1257884527.cos.ap-singapore.myqcloud.com
+DOMAIN-SUFFIX,uSmartsg.com
+DOMAIN-SUFFIX,uSmart.sg
+DOMAIN-SUFFIX,uSmartglobal.com
+DOMAIN-SUFFIX,uSmartgroup.com
+DOMAIN-SUFFIX,uSmart
+IP-CIDR,47.107.247.183/32,no-resolve
+IP-CIDR,47.242.214.131/32,no-resolve
