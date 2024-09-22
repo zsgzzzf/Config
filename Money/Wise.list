@@ -16,5 +16,7 @@ DOMAIN-SUFFIX,sdk-api-v1.singular.net
 
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,transferwise.com
+
+# 域名关键字匹配
 DOMAIN-KEYWORD,Wise
 DOMAIN-KEYWORD,transferwise
