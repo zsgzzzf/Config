@@ -24,11 +24,13 @@ sing-box rule-set compile --output /rules.srs /rules.json
 示例：
 https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址&file=规则模板json地址
 
+https://sing-box-subscribe-doraemon.vercel.app/config/https://my.vipuser.info/sub-rl?port=20925&passwd=sDpECu&file=https://raw.githubusercontent.com/qcyhub/rule/master/config/singbox/config_fakeip.json
+
 singbox在线模板：
 
-https://raw.githubusercontent.com/qcyhub/rule/master/config/singbox/config_tun.json
-https://raw.githubusercontent.com/qcyhub/rule/master/config/singbox/config_mixed.json
-https://raw.githubusercontent.com/qcyhub/rule/master/config/singbox/config_fakeip.json
+https://raw.githubusercontent.com/zsgzzzf/Config/refs/heads/main/singbox/config_tun.json
+https://raw.githubusercontent.com/zsgzzzf/Config/refs/heads/main/singbox/config_mixed.json
+https://raw.githubusercontent.com/zsgzzzf/Config/refs/heads/main/singbox/config_fakeip.json
 
 docker版后端：
 
