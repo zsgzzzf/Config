@@ -31,11 +31,13 @@ https://raw.githubusercontent.com/qcyhub/rule/master/config/singbox/config_mixed
 https://raw.githubusercontent.com/qcyhub/rule/master/config/singbox/config_fakeip.json
 
 docker版后端：
+
 docker run -d --name sing-box-subscribe -p 5000:5000 hestudy/sing-box-subscribe
 
 http://localhost:5000/config/
 
 网站版后端：
+
 https://github.com/Toperlock/sing-box-subscribe/blob/main/instructions/README.md
 
 singbox Wiki：
