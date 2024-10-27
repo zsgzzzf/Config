@@ -112,8 +112,8 @@
     ],
     
     "rule_set": [
-      { "tag": "Direct", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/zsgzzzf/Config/refs/heads/main/singbox/Direct.json", "download_detour": "🎯 全球直连" },
-      { "tag": "ProxyLite", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/zsgzzzf/Config/refs/heads/main/singbox/ProxyLite.json", "download_detour": "🎯 全球直连" },
+      { "tag": "Direct", "type": "remote", "format": "binary", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zsgzzzf/Config/refs/heads/main/singbox/Direct.json", "download_detour": "🎯 全球直连" },
+      { "tag": "ProxyLite", "type": "remote", "format": "binary", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zsgzzzf/Config/refs/heads/main/singbox/ProxyLite.json", "download_detour": "🎯 全球直连" },
       { "tag": "geosite-openai", "type": "remote", "format": "binary", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/rule/OpenAI.srs", "download_detour": "🎯 全球直连" },
       { "tag": "geosite-youtube", "type": "remote", "format": "binary", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/youtube.srs", "download_detour": "🎯 全球直连" },
       { "tag": "geoip-google", "type": "remote", "format": "binary", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/google.srs", "download_detour": "🎯 全球直连" },
