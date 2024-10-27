@@ -25,6 +25,7 @@ sing-box rule-set compile --output /rules.srs /rules.json
 https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址&file=规则模板json地址
 
 singbox在线模板：
+
 https://raw.githubusercontent.com/qcyhub/rule/master/config/singbox/config_tun.json
 https://raw.githubusercontent.com/qcyhub/rule/master/config/singbox/config_mixed.json
 https://raw.githubusercontent.com/qcyhub/rule/master/config/singbox/config_fakeip.json
