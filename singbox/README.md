@@ -47,6 +47,7 @@ json格式检查：
 https://www.json.cn/
 
 裸核运行：
+
 mkdir /etc/sing-box
 
 cd /etc/sing-box
