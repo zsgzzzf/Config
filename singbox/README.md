@@ -1,4 +1,4 @@
-# sing-box
+# =====sing-box=====
 
 重点注意：
 每项出站必须有具体节点或者直连，不然无法运行或者报错！！
@@ -20,7 +20,7 @@ homeproxy完美配置文件下载地址：https://github.com/qichiyuhub/rule/tre
 Json转换二进制命令：
 sing-box rule-set compile --output /rules.srs /rules.json
 
-# =====================配置文件=====================================
+# =====配置文件=====
 示例：
 https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址&file=规则模板json地址
 
