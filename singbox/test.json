@@ -38,7 +38,6 @@
       "strict_route": true,
       "stack": "mixed",
       "sniff": true,
-      }
     },
     {
       "tag": "mixed",
