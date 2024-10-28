@@ -32,22 +32,19 @@
   "inbounds": [
     {
       "tag": "tun",
-      "type": "tun",
+      "type": "tun-in",
       "inet4_address": "172.19.0.0/30",
-      "inet6_address": "fdfe:dcba:9876::0/126",
-      "stack": "system",
       "auto_route": true,
+      "strict_route": true,
+      "stack": "mixed",
       "sniff": true,
-      "platform": {
-        "http_proxy": {"enabled": true, "server": "0.0.0.0", "server_port": 7890}
       }
     },
     {
       "tag": "mixed",
-      "type": "mixed",
+      "type": "mixed-in",
       "listen": "0.0.0.0",
-      "listen_port": 7890,
-      "sniff": true
+      "listen_port": 2080,
     }
   ],
 
