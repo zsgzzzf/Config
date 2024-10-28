@@ -15,6 +15,8 @@ homeproxy完美配置文件下载地址：https://github.com/qichiyuhub/rule/tre
 
 自定义规则集两个文件下载地址：https://github.com/qichiyuhub/rule/tree/master/config/singbox
 
+URL合并网站：https://www.urlencoder.org/
+
 自定义规则集json格式检查对错：https://www.json.cn/
 
 Json转换二进制命令：
