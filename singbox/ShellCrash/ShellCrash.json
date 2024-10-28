@@ -6,25 +6,11 @@
     },
     "dns": {
         "servers": [
-            {   "tag": "dns_proxy",
-                "address": "tls://1.1.1.1",
-                "address_resolver": "dns_resolver"
-            },
-            {   "tag": "dns_direct",
-                "address": "h3://dns.alidns.com/dns-query",
-                "address_resolver": "dns_resolver",
-                "detour": "DIRECT"
-            },
-            {   "tag": "dns_fakeip",
-                "address": "fakeip"
-            },
-            {   "tag": "dns_resolver",
-                "address": "223.5.5.5",
-                "detour": "DIRECT"
-            },
-            {   "tag": "block",
-                "address": "rcode://success"
-            }
+            {"tag": "dns_proxy", "address": "tls://1.1.1.1", "address_resolver": "dns_resolver"},
+            {"tag": "dns_direct", "address": "h3://dns.alidns.com/dns-query", "address_resolver": "dns_resolver", "detour": "DIRECT"},
+            {"tag": "dns_fakeip", "address": "fakeip"},
+            {"tag": "dns_resolver", "address": "223.5.5.5", "detour": "DIRECT"},
+            {"tag": "block", "address": "rcode://success"}
         ],
         "rules": [
             {
