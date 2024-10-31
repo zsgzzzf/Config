@@ -1,5 +1,8 @@
 # =====sing-box=====
 
+## 请注意ShellCrash，homeproxy，sing-box因该使用不同的配置文件。ShellCrash的配置文件基本等同clash的配置文件，homeproxy使用完美模板注入服务器目录然后在ui界面修改细节，sing-box则使用专门的订阅链接生成配置文件再使用。
+
+
 重点注意：
 每项出站必须有具体节点或者直连，不然无法运行或者报错！！
 
@@ -22,7 +25,7 @@ URL合并网站：https://www.urlencoder.org/
 Json转换二进制命令：
 sing-box rule-set compile --output /rules.srs /rules.json
 
-# =====配置文件=====
+# =====配置文件=====(理解为专门为了Sing-box做的配置文件)
 示例：
 https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址&file=规则模板json地址
 
