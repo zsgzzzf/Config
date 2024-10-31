@@ -27,8 +27,6 @@ sing-box rule-set compile --output /rules.srs /rules.json
 https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址&file=规则模板json地址
 
 
-https://sing-box-subscribe-doraemon.vercel.app/config/hysteria2://7ea6ae68-2e01-457f-8aa7-7e680cead7a4@vps.morverthink.eu.org:32779?peer=vps.morverthink.eu.org%26insecure=0%26sni=vps.morverthink.eu.org%26alpn=h3|https://my.vipuser.info/sub-rl?port=20925%26passwd=sDpECu&file=https://raw.githubusercontent.com/zsgzzzf/Config/refs/heads/main/singbox/config_mixed.json
-
 singbox在线模板：
 
 https://raw.githubusercontent.com/zsgzzzf/Config/refs/heads/main/singbox/config_tun.json
