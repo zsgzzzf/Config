@@ -117,3 +117,7 @@ IP-CIDR,129.226.2.218/32,no-resolve
 IP-CIDR,43.139.196.8/32,no-resolve
 IP-CIDR,106.55.222.46/32,no-resolve
 IP-CIDR,134.175.254.224/32,no-resolve
+
+# Yahoo
+IP-CIDR,180.222.116.11/32,no-resolve
+IP-CIDR,180.222.116.12/32,no-resolve
