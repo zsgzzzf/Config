@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,moomoobull.com
 
 DOMAIN-SUFFIX,futustatic.com
+DOMAIN-SUFFIX,ibkr.com
 
 # SG IP
 IP-CIDR,43.134.158.60/32,no-resolve
