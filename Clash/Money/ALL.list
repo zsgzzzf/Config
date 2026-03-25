@@ -60,217 +60,216 @@ shortconn.im.qcloud.com
 promote-image-1251001049.cos.accelerate.myqcloud.com
 promote-image-hk-1251001049.cos.accelerate.myqcloud.com
 
-host-suffix, futunn.com
-host-suffix, futuhn.com
-host-suffix, futufin.com
-host-suffix, futuhk.com
-host-suffix, futuhk2.com
-host-keyword, futunn
++.futunn.com
++.futuhn.com
++.futufin.com
++.futuhk.com
++.futuhk2.com
 
 # SG IP
-ip-cidr, 43.132.12.114/32
-ip-cidr, 43.153.233.166/32
-ip-cidr, 43.153.233.181/32
-ip-cidr, 43.153.233.212/32
+43.132.12.114/32
+43.153.233.166/32
+43.153.233.181/32
+43.153.233.212/32
 # JP IP
-ip-cidr, 43.128.254.50/32
-ip-cidr, 43.153.191.154/32
-ip-cidr, 124.156.233.21/32
-ip-cidr, 124.156.234.231/32
+43.128.254.50/32
+43.153.191.154/32
+124.156.233.21/32
+124.156.234.231/32
 # US IP
-ip-cidr, 49.51.39.163/32
-ip-cidr, 107.155.14.171/32
-ip-cidr, 170.106.49.68/32
-ip-cidr, 170.106.49.111/32
-ip-cidr, 170.106.48.217/32
+49.51.39.163/32
+107.155.14.171/32
+170.106.49.68/32
+170.106.49.111/32
+170.106.48.217/32
 # HK IP
-ip-cidr, 43.132.106.6/32
-ip-cidr, 43.132.107.102/32
-ip-cidr, 129.226.79.239/32
-ip-cidr, 119.28.37.77/32
-ip-cidr, 119.28.37.206/32
-ip-cidr, 101.32.199.218/32
-ip-cidr, 124.156.124.214/32
-ip-cidr, 124.156.124.226/32
+43.132.106.6/32
+43.132.107.102/32
+129.226.79.239/32
+119.28.37.77/32
+119.28.37.206/32
+101.32.199.218/32
+124.156.124.214/32
+124.156.124.226/32
 # Others
-ip-cidr, 159.75.142.235/32
-ip-cidr, 42.193.128.62/32
-ip-cidr, 43.142.232.62/32
-ip-cidr, 49.234.241.65/32
-ip-cidr, 101.33.192.94/32
-ip-cidr, 119.91.243.37/32
-ip-cidr, 119.29.43.101/32
-ip-cidr, 162.14.3.250/32
-ip-cidr, 106.55.67.8/32
-ip-cidr, 106.55.66.68/32
-ip-cidr, 111.230.119.192/32
+159.75.142.235/32
+42.193.128.62/32
+43.142.232.62/32
+49.234.241.65/32
+101.33.192.94/32
+119.91.243.37/32
+119.29.43.101/32
+162.14.3.250/32
+106.55.67.8/32
+106.55.66.68/32
+111.230.119.192/32
 
 ## Moomoo - 2024.08.31
 
-DOMAIN-SUFFIX,api.moomoobull.com
-DOMAIN-SUFFIX,www.moomoo.com
-DOMAIN-SUFFIX,api.moomoo.com
-DOMAIN-SUFFIX,static.moomoo.com
-DOMAIN-SUFFIX,conf.moomoo.com
-DOMAIN-SUFFIX,auth.moomoo.com
-DOMAIN-SUFFIX,sdauth.moomoo.com
-DOMAIN-SUFFIX,pass.moomoo.com
-DOMAIN-SUFFIX,sdreport.moomoo.com
-DOMAIN-SUFFIX,passport.moomoo.com
-DOMAIN-SUFFIX,update.moomoo.com
-DOMAIN-SUFFIX,j.moomoo.com
-DOMAIN-SUFFIX,cdnquote.moomoo.com
-DOMAIN-SUFFIX,stock-resource.moomoo.com
-DOMAIN-SUFFIX,emoticon.moomoo.com
-DOMAIN-SUFFIX,fegostatic.moomoo.com
-DOMAIN-SUFFIX,collect.moomoo.com
-DOMAIN-SUFFIX,editor.moomoo.com
-DOMAIN-SUFFIX,drip.sg.moomoo.com
-DOMAIN-SUFFIX,authority.sg.moomoo.com
-DOMAIN-SUFFIX,collect.sg.moomoo.com
-DOMAIN-SUFFIX,myaccount.sg.moomoo.com
-DOMAIN-SUFFIX,openaccount.sg.moomoo.com
-DOMAIN-SUFFIX,fund-upgrowth.sg.moomoo.com
-DOMAIN-SUFFIX,account-manage.sg.moomoo.com
-DOMAIN-SUFFIX,deposit.sg.moomoo.com
-DOMAIN-SUFFIX,withdraw.sg.moomoo.com
-DOMAIN-SUFFIX,foss-mm-us.moomoo.com
-DOMAIN-SUFFIX,collect.us.moomoo.com
-DOMAIN-SUFFIX,dedog-server.moomoo.com
-DOMAIN-SUFFIX,dedog-report.moomoo.com
-DOMAIN-SUFFIX,dedog-server-sec.moomoo.com
-DOMAIN-SUFFIX,dedog-report-sec.moomoo.com
-DOMAIN-SUFFIX,report.moomoo.com
-DOMAIN-SUFFIX,stock-reward.moomoo.com
-DOMAIN-SUFFIX,news.moomoo.com
-DOMAIN-SUFFIX,newsvideo.moomoo.com
-DOMAIN-SUFFIX,sg-m-match.moomoo.com
-DOMAIN-SUFFIX,sgsnsimg.moomoo.com
-DOMAIN-SUFFIX,sgavatar.moomoo.com
-DOMAIN-SUFFIX,uscourseimg.moomoo.com
-DOMAIN-SUFFIX,ussnsimg.moomoo.com
-DOMAIN-SUFFIX,usavatar.moomoo.com
-DOMAIN-SUFFIX,auavatar.moomoo.com
-DOMAIN-SUFFIX,collect.moomoo.com
-DOMAIN-SUFFIX,qtcard.moomoo.com
-DOMAIN-SUFFIX,usnewsfile.moomoo.com
-DOMAIN-SUFFIX,offline-moo.moomoo.com
-DOMAIN-SUFFIX,fego-offline.moomoo.com
-DOMAIN-SUFFIX,attribution.moomoo.com
-DOMAIN-SUFFIX,cdn.futustatic.com
-DOMAIN-SUFFIX,shortsgp.im.qcloud.com
-DOMAIN-SUFFIX,shortsgp.my-imcloud.com
-DOMAIN-SUFFIX,20000170l4s.my-imcloud.com
-DOMAIN-SUFFIX,pubimg-10000538.picsh.myqcloud.com
-DOMAIN-SUFFIX,sgpubimg-1251001049.cos.accelerate.myqcloud.com
-DOMAIN-SUFFIX,course-img-1251001049.cos.accelerate.myqcloud.com
-DOMAIN-SUFFIX,promote-image-1251001049.cos.accelerate.myqcloud.com
-DOMAIN-SUFFIX,promote-image-us-1251001049.cos.accelerate.myqcloud.com
+api.moomoobull.com
+www.moomoo.com
+api.moomoo.com
+static.moomoo.com
+conf.moomoo.com
+auth.moomoo.com
+sdauth.moomoo.com
+pass.moomoo.com
+sdreport.moomoo.com
+passport.moomoo.com
+update.moomoo.com
+j.moomoo.com
+cdnquote.moomoo.com
+stock-resource.moomoo.com
+emoticon.moomoo.com
+fegostatic.moomoo.com
+collect.moomoo.com
+editor.moomoo.com
+drip.sg.moomoo.com
+authority.sg.moomoo.com
+collect.sg.moomoo.com
+myaccount.sg.moomoo.com
+openaccount.sg.moomoo.com
+fund-upgrowth.sg.moomoo.com
+account-manage.sg.moomoo.com
+deposit.sg.moomoo.com
+withdraw.sg.moomoo.com
+foss-mm-us.moomoo.com
+collect.us.moomoo.com
+dedog-server.moomoo.com
+dedog-report.moomoo.com
+dedog-server-sec.moomoo.com
+dedog-report-sec.moomoo.com
+report.moomoo.com
+stock-reward.moomoo.com
+news.moomoo.com
+newsvideo.moomoo.com
+sg-m-match.moomoo.com
+sgsnsimg.moomoo.com
+sgavatar.moomoo.com
+uscourseimg.moomoo.com
+ussnsimg.moomoo.com
+usavatar.moomoo.com
+auavatar.moomoo.com
+collect.moomoo.com
+qtcard.moomoo.com
+usnewsfile.moomoo.com
+offline-moo.moomoo.com
+fego-offline.moomoo.com
+attribution.moomoo.com
+cdn.futustatic.com
+shortsgp.im.qcloud.com
+shortsgp.my-imcloud.com
+20000170l4s.my-imcloud.com
+pubimg-10000538.picsh.myqcloud.com
+sgpubimg-1251001049.cos.accelerate.myqcloud.com
+course-img-1251001049.cos.accelerate.myqcloud.com
+promote-image-1251001049.cos.accelerate.myqcloud.com
+promote-image-us-1251001049.cos.accelerate.myqcloud.com
 
-DOMAIN-SUFFIX,sg.moomoo.com
-DOMAIN-SUFFIX,us.moomoo.com
-DOMAIN-SUFFIX,moomoo.com
-DOMAIN-SUFFIX,moomoobull.com
++.sg.moomoo.com
++.us.moomoo.com
++.moomoo.com
++.moomoobull.com
 
-DOMAIN-SUFFIX,futustatic.com
-DOMAIN-SUFFIX,ibkr.com
-DOMAIN-SUFFIX,gfis.info
++.futustatic.com
++.ibkr.com
++.gfis.info
 
 # SG IP
-IP-CIDR,43.134.158.60/32,no-resolve
-IP-CIDR,43.134.158.106/32,no-resolve
-IP-CIDR,43.134.159.45/32,no-resolve
-IP-CIDR,43.134.159.189/32,no-resolve
-IP-CIDR,43.153.234.107/32,no-resolve
-IP-CIDR,43.153.238.1/24,no-resolve
-IP-CIDR,101.33.43.3/32,no-resolve
-IP-CIDR,101.33.43.108/32,no-resolve
-IP-CIDR,101.32.143.93/32,no-resolve
-IP-CIDR,101.32.113.56/32,no-resolve
-IP-CIDR,101.32.133.230/32,no-resolve
-IP-CIDR,101.32.104.226/32,no-resolve
-IP-CIDR,129.226.1.154/32,no-resolve
-;IP-CIDR,43.153.238.188/32,no-resolve
-;IP-CIDR,43.153.238.250/32,no-resolve
-;IP-CIDR,43.153.238.215/32,no-resolve
-;IP-CIDR,43.153.238.13/32,no-resolve
+43.134.158.60/32
+43.134.158.106/32
+43.134.159.45/32
+43.134.159.189/32
+43.153.234.107/32
+43.153.238.1/24
+101.33.43.3/32
+101.33.43.108/32
+101.32.143.93/32
+101.32.113.56/32
+101.32.133.230/32
+101.32.104.226/32
+129.226.1.154/32
+;43.153.238.188/32
+;43.153.238.250/32
+;43.153.238.215/32
+;43.153.238.13/32
 # US IP
-IP-CIDR,170.106.62.232/32,no-resolve
-IP-CIDR,170.106.62.85/32,no-resolve
-IP-CIDR,170.106.47.242/32,no-resolve
-IP-CIDR,49.51.77.113/32,no-resolve
-IP-CIDR,49.51.78.82/32,no-resolve
-IP-CIDR,49.51.78.214/32,no-resolve
-IP-CIDR,49.51.79.237/32,no-resolve
+170.106.62.232/32
+170.106.62.85/32
+170.106.47.242/32
+49.51.77.113/32
+49.51.78.82/32
+49.51.78.214/32
+49.51.79.237/32
 # HK IP
-IP-CIDR,43.132.138.6/32,no-resolve
-IP-CIDR,43.135.57.128/32,no-resolve
-IP-CIDR,43.135.64.109/32,no-resolve
-IP-CIDR,43.135.65.153/32,no-resolve
-IP-CIDR,43.132.107.164/32,no-resolve
-IP-CIDR,101.32.70.122/32,no-resolve
-IP-CIDR,101.32.198.103/32,no-resolve
-IP-CIDR,129.226.111.106/32,no-resolve
-IP-CIDR,119.28.183.68/32,no-resolve
-IP-CIDR,119.28.38.243/32,no-resolve
+43.132.138.6/32
+43.135.57.128/32
+43.135.64.109/32
+43.135.65.153/32
+43.132.107.164/32
+101.32.70.122/32
+101.32.198.103/32
+129.226.111.106/32
+119.28.183.68/32
+119.28.38.243/32
 # JP IP
-IP-CIDR,124.156.235.203/32,no-resolve
-IP-CIDR,43.153.165.242/32,no-resolve
-IP-CIDR,43.153.191.15/32,no-resolve
-IP-CIDR,43.153.191.80/32,no-resolve
+124.156.235.203/32
+43.153.165.242/32
+43.153.191.15/32
+43.153.191.80/32
 
 # Others
-IP-CIDR,42.193.217.66/32,no-resolve
-IP-CIDR,42.193.128.234/32,no-resolve
-IP-CIDR,42.194.246.243/32,no-resolve
-IP-CIDR,101.33.192.19/32,no-resolve
-IP-CIDR,129.226.2.218/32,no-resolve
-IP-CIDR,43.139.196.8/32,no-resolve
-IP-CIDR,106.55.222.46/32,no-resolve
-IP-CIDR,134.175.254.224/32,no-resolve
+42.193.217.66/32
+42.193.128.234/32
+42.194.246.243/32
+101.33.192.19/32
+129.226.2.218/32
+43.139.196.8/32
+106.55.222.46/32
+134.175.254.224/32
 
 # Yahoo
-IP-CIDR,180.222.116.11/32,no-resolve
-IP-CIDR,180.222.116.12/32,no-resolve
+180.222.116.11/32
+180.222.116.12/32
 
 # OCBC SG - 2024.02.04
 
-DOMAIN-SUFFIX, www.ocbc.com
-DOMAIN-SUFFIX, internet.ocbc.com
-DOMAIN-SUFFIX, mb.bff.ocbc.com
-DOMAIN-SUFFIX, pafms.ocbc.com
-DOMAIN-SUFFIX, mb.bff.ocbc.com
-DOMAIN-SUFFIX, appd.ocbc.com
-DOMAIN-SUFFIX, ocbc.au1.qualtrics.com
-DOMAIN-SUFFIX, au1.qualtrics.com
-DOMAIN-SUFFIX, survey.qualtrics.com
-DOMAIN-SUFFIX, zn1z6ngdutm8gqq18-ocbc.siteintercept.qualtrics.com
-DOMAIN-SUFFIX, overseachinesebankingcorporationlimited.sc.omtrdc.net
-DOMAIN-SUFFIX, overseachinesebankin.tt.omtrdc.net
-DOMAIN-SUFFIX, ocbc.demdex.net
-DOMAIN-SUFFIX, dpm.demdex.net
-DOMAIN-SUFFIX, ocbc.data.adobedc.net
-DOMAIN-SUFFIX, assets.adobedtm.com
-DOMAIN-SUFFIX, ocbc.com
+ www.ocbc.com
+ internet.ocbc.com
+ mb.bff.ocbc.com
+ pafms.ocbc.com
+ mb.bff.ocbc.com
+ appd.ocbc.com
+ ocbc.au1.qualtrics.com
+ au1.qualtrics.com
+ survey.qualtrics.com
+ zn1z6ngdutm8gqq18-ocbc.siteintercept.qualtrics.com
+ overseachinesebankingcorporationlimited.sc.omtrdc.net
+ overseachinesebankin.tt.omtrdc.net
+ ocbc.demdex.net
+ dpm.demdex.net
+ ocbc.data.adobedc.net
+ assets.adobedtm.com
+ +.ocbc.com
 
 ## Wise - 2024.09.07
 
-DOMAIN-SUFFIX,Wise.com
-DOMAIN-SUFFIX,api.wise.com
-DOMAIN-SUFFIX,gtm.wise.com
-DOMAIN-SUFFIX,api.authy.com
-DOMAIN-SUFFIX,status.wise.com
-DOMAIN-SUFFIX,api.mixpanel.com
-DOMAIN-SUFFIX,api-js.mixpanel.com
-DOMAIN-SUFFIX,script.hotjar.com
-DOMAIN-SUFFIX,static.hotjar.com
-DOMAIN-SUFFIX,api.transferwise.com
-DOMAIN-SUFFIX,loki-v42zc5nx3sj7swjbm6zacmssmtcs2gck.wise.com
-DOMAIN-SUFFIX,sdk.fra-01.braze.eu
-DOMAIN-SUFFIX,sdk-api-v1.singular.net
++.Wise.com
+api.wise.com
+gtm.wise.com
+api.authy.com
+status.wise.com
+api.mixpanel.com
+api-js.mixpanel.com
+script.hotjar.com
+static.hotjar.com
+api.transferwise.com
+loki-v42zc5nx3sj7swjbm6zacmssmtcs2gck.wise.com
+sdk.fra-01.braze.eu
+sdk-api-v1.singular.net
 
-DOMAIN-SUFFIX,mixpanel.com
-DOMAIN-SUFFIX,transferwise.com
++.mixpanel.com
++.transferwise.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,Wise
@@ -279,41 +278,40 @@ DOMAIN-KEYWORD,transferwise
 ## uSMART (HK & SG) - 2024.08.05
 
 # HK
-DOMAIN-SUFFIX,www.usmart.hk
-DOMAIN-SUFFIX,hz.yxzq.com
-DOMAIN-SUFFIX,jy.yxzq.com
-DOMAIN-SUFFIX,sc.yxzq.com
-DOMAIN-SUFFIX,wj.yxzq.com
-DOMAIN-SUFFIX,m.yxzq.com
-DOMAIN-SUFFIX,web-prd-1257884527.cos.ap-guangzhou.myqcloud.com
-DOMAIN-SUFFIX,web-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
-DOMAIN-SUFFIX,web-static-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
-DOMAIN-SUFFIX,jy-common-prd-1257884527.cos.ap-guangzhou.myqcloud.com
-DOMAIN-SUFFIX,jy-common-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
-DOMAIN-SUFFIX,jy-common-rich-prd-hongkong-1305919280.cos.ap-hongkong.myqcloud.com
-DOMAIN-SUFFIX,hq-prod-news-server-1257884527.file.myqcloud.com
-DOMAIN-SUFFIX,hq-prod-news-server-1257884527.cos.ap-chengdu.myqcloud.com
-DOMAIN-SUFFIX,hq-news-server-1257884527.cos.ap-guangzhou.myqcloud.com
-DOMAIN-SUFFIX,web-static-rich-prd-hongkong-1305919280.cos.ap-hongkong.myqcloud.com
-DOMAIN-SUFFIX,mlvbdc.live.qcloud.com
-DOMAIN-SUFFIX,license.vod2.myqcloud.com
-DOMAIN-SUFFIX,yxzq.com
-DOMAIN-SUFFIX,uSmart.hk
-IP-CIDR,120.77.252.10/32,no-resolve
-IP-CIDR,120.77.150.199/32,no-resolve
+www.usmart.hk
+hz.yxzq.com
+jy.yxzq.com
+sc.yxzq.com
+wj.yxzq.com
+m.yxzq.com
+web-prd-1257884527.cos.ap-guangzhou.myqcloud.com
+web-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
+web-static-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
+jy-common-prd-1257884527.cos.ap-guangzhou.myqcloud.com
+jy-common-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
+jy-common-rich-prd-hongkong-1305919280.cos.ap-hongkong.myqcloud.com
+hq-prod-news-server-1257884527.file.myqcloud.com
+hq-prod-news-server-1257884527.cos.ap-chengdu.myqcloud.com
+hq-news-server-1257884527.cos.ap-guangzhou.myqcloud.com
+web-static-rich-prd-hongkong-1305919280.cos.ap-hongkong.myqcloud.com
+mlvbdc.live.qcloud.com
+license.vod2.myqcloud.com
++.yxzq.com
++.uSmart.hk
+120.77.252.10/32
+120.77.150.199/32
 
 # SG
-DOMAIN-SUFFIX,www.usmart.sg
-DOMAIN-SUFFIX,sc.usmartsg.com
-DOMAIN-SUFFIX,jy.usmartsg.com
-DOMAIN-SUFFIX,hz.usmartsg.com
-DOMAIN-SUFFIX,m.usmartsg.com
-DOMAIN-SUFFIX,uSmartglobal.zendesk.com
-DOMAIN-SUFFIX,jy-common-sg-prd-singapore-1257884527.cos.ap-singapore.myqcloud.com
-DOMAIN-SUFFIX,uSmartsg.com
-DOMAIN-SUFFIX,uSmart.sg
-DOMAIN-SUFFIX,uSmartglobal.com
-DOMAIN-SUFFIX,uSmartgroup.com
-DOMAIN-SUFFIX,uSmart
-IP-CIDR,47.107.247.183/32,no-resolve
-IP-CIDR,47.242.214.131/32,no-resolve
+www.usmart.sg
+sc.usmartsg.com
+jy.usmartsg.com
+hz.usmartsg.com
+m.usmartsg.com
+uSmartglobal.zendesk.com
+jy-common-sg-prd-singapore-1257884527.cos.ap-singapore.myqcloud.com
++.uSmartsg.com
++.uSmart.sg
+uSmartglobal.com
+uSmartgroup.com
+47.107.247.183/32
+47.242.214.131/32
