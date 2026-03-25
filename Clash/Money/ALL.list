@@ -1,109 +1,109 @@
 ## Futubull - 2024.08.31
 
-www.futuhk.com, Futubull
-api.futunn.com, Futubull
-api5.futunn.com, Futubull
-avatar.futunn.com, Futubull
-static.futunn.com, Futubull
-conf.futunn.com, Futubull
-sdauth.futuhk.com, Futubull
-dedog-report-sec.futunn.com, Futubull
-dedog-server-sec.futunn.com, Futubull
-dedog-server.futunn.com, Futubull
-stock-resource.futunn.com, Futubull
-cdnquote.futunn.com, Futubull
-collect.futunn.com, Futubull
-report.futunn.com, Futubull
-dedog-report.futunn.com, Futubull
-fegostatic.futunn.com, Futubull
-foss-nn-hk.futunn.com, Futubull
-pubimg.futunn.com, Futubull
-m-match.futunn.com, Futubull
-sdreport.futunn.com, Futubull
-offline-q.futunn.com, Futubull
-nnqimage.futunn.com, Futubull
-sdauth.futunn.com, Futubull
-news.futunn.com, Futubull
-newsfile.futunn.com, Futubull
-foss1.futunn.com, Futubull
-auth.futunn.com, Futubull
-fego-offline.futunn.com, Futubull
-update.futunn.com, Futubull
-locale.futunn.com, Futubull
-postimg.futunn.com, Futubull
-passport.futunn.com, Futubull
-plb.futunn.com, Futubull
-j.futunn.com, Futubull
-w5.futunn.com, Futubull
-emoticon.futunn.com, Futubull
-cdn-img-wealth.futunn.com, Futubull
-industry-chain-img.futunn.com, Futubull
-exchange.futuhn.com, Futubull
-withdraw.futuhn.com, Futubull
-funds.futuhn.com, Futubull
-sdauth.futuhn.com, Futubull
-collect.futuhn.com, Futubull
-risk.futuhn.com, Futubull
-acctransfer.futuhn.com, Futubull
-fund-upgrowth.futuhn.com, Futubull
-trade-password.futuhn.com, Futubull
-www.futufin.com, Futubull
-collect.futufin.com, Futubull
-commonfthk.futufin.com, Futubull
-commonfthk.futufin.com, Futubull
-sdauth.futufin.com, Futubull
-fund-upgrowth.futufin.com, Futubull
-fund-upgrowth.futuhk2.com, Futubull
-sdauth.futuhk2.com, Futubull
-shortconn.im.qcloud.com, Futubull
-1400001456l4c.my-imcloud.com, Futubull
-promote-image-1251001049.cos.accelerate.myqcloud.com, Futubull
-promote-image-hk-1251001049.cos.accelerate.myqcloud.com, Futubull
+www.futuhk.com
+api.futunn.com
+api5.futunn.com
+avatar.futunn.com
+static.futunn.com
+conf.futunn.com
+sdauth.futuhk.com
+dedog-report-sec.futunn.com
+dedog-server-sec.futunn.com
+dedog-server.futunn.com
+stock-resource.futunn.com
+cdnquote.futunn.com
+collect.futunn.com
+report.futunn.com
+dedog-report.futunn.com
+fegostatic.futunn.com
+foss-nn-hk.futunn.com
+pubimg.futunn.com
+m-match.futunn.com
+sdreport.futunn.com
+offline-q.futunn.com
+nnqimage.futunn.com
+sdauth.futunn.com
+news.futunn.com
+newsfile.futunn.com
+foss1.futunn.com
+auth.futunn.com
+fego-offline.futunn.com
+update.futunn.com
+locale.futunn.com
+postimg.futunn.com
+passport.futunn.com
+plb.futunn.com
+j.futunn.com
+w5.futunn.com
+emoticon.futunn.com
+cdn-img-wealth.futunn.com
+industry-chain-img.futunn.com
+exchange.futuhn.com
+withdraw.futuhn.com
+funds.futuhn.com
+sdauth.futuhn.com
+collect.futuhn.com
+risk.futuhn.com
+acctransfer.futuhn.com
+fund-upgrowth.futuhn.com
+trade-password.futuhn.com
+www.futufin.com
+collect.futufin.com
+commonfthk.futufin.com
+commonfthk.futufin.com
+sdauth.futufin.com
+fund-upgrowth.futufin.com
+fund-upgrowth.futuhk2.com
+sdauth.futuhk2.com
+shortconn.im.qcloud.com
+1400001456l4c.my-imcloud.com
+promote-image-1251001049.cos.accelerate.myqcloud.com
+promote-image-hk-1251001049.cos.accelerate.myqcloud.com
 
-host-suffix, futunn.com, Futubull
-host-suffix, futuhn.com, Futubull
-host-suffix, futufin.com, Futubull
-host-suffix, futuhk.com, Futubull
-host-suffix, futuhk2.com, Futubull
-host-keyword, futunn, Futubull
+host-suffix, futunn.com
+host-suffix, futuhn.com
+host-suffix, futufin.com
+host-suffix, futuhk.com
+host-suffix, futuhk2.com
+host-keyword, futunn
 
 # SG IP
-ip-cidr, 43.132.12.114/32, Futubull
-ip-cidr, 43.153.233.166/32, Futubull
-ip-cidr, 43.153.233.181/32, Futubull
-ip-cidr, 43.153.233.212/32, Futubull
+ip-cidr, 43.132.12.114/32
+ip-cidr, 43.153.233.166/32
+ip-cidr, 43.153.233.181/32
+ip-cidr, 43.153.233.212/32
 # JP IP
-ip-cidr, 43.128.254.50/32, Futubull
-ip-cidr, 43.153.191.154/32, Futubull
-ip-cidr, 124.156.233.21/32, Futubull
-ip-cidr, 124.156.234.231/32, Futubull
+ip-cidr, 43.128.254.50/32
+ip-cidr, 43.153.191.154/32
+ip-cidr, 124.156.233.21/32
+ip-cidr, 124.156.234.231/32
 # US IP
-ip-cidr, 49.51.39.163/32, Futubull
-ip-cidr, 107.155.14.171/32, Futubull
-ip-cidr, 170.106.49.68/32, Futubull
-ip-cidr, 170.106.49.111/32, Futubull
-ip-cidr, 170.106.48.217/32, Futubull
+ip-cidr, 49.51.39.163/32
+ip-cidr, 107.155.14.171/32
+ip-cidr, 170.106.49.68/32
+ip-cidr, 170.106.49.111/32
+ip-cidr, 170.106.48.217/32
 # HK IP
-ip-cidr, 43.132.106.6/32, Futubull
-ip-cidr, 43.132.107.102/32, Futubull
-ip-cidr, 129.226.79.239/32, Futubull
-ip-cidr, 119.28.37.77/32, Futubull
-ip-cidr, 119.28.37.206/32, Futubull
-ip-cidr, 101.32.199.218/32, Futubull
-ip-cidr, 124.156.124.214/32, Futubull
-ip-cidr, 124.156.124.226/32, Futubull
+ip-cidr, 43.132.106.6/32
+ip-cidr, 43.132.107.102/32
+ip-cidr, 129.226.79.239/32
+ip-cidr, 119.28.37.77/32
+ip-cidr, 119.28.37.206/32
+ip-cidr, 101.32.199.218/32
+ip-cidr, 124.156.124.214/32
+ip-cidr, 124.156.124.226/32
 # Others
-ip-cidr, 159.75.142.235/32, Futubull
-ip-cidr, 42.193.128.62/32, Futubull
-ip-cidr, 43.142.232.62/32, Futubull
-ip-cidr, 49.234.241.65/32, Futubull
-ip-cidr, 101.33.192.94/32, Futubull
-ip-cidr, 119.91.243.37/32, Futubull
-ip-cidr, 119.29.43.101/32, Futubull
-ip-cidr, 162.14.3.250/32, Futubull
-ip-cidr, 106.55.67.8/32, Futubull
-ip-cidr, 106.55.66.68/32, Futubull
-ip-cidr, 111.230.119.192/32, Futubull
+ip-cidr, 159.75.142.235/32
+ip-cidr, 42.193.128.62/32
+ip-cidr, 43.142.232.62/32
+ip-cidr, 49.234.241.65/32
+ip-cidr, 101.33.192.94/32
+ip-cidr, 119.91.243.37/32
+ip-cidr, 119.29.43.101/32
+ip-cidr, 162.14.3.250/32
+ip-cidr, 106.55.67.8/32
+ip-cidr, 106.55.66.68/32
+ip-cidr, 111.230.119.192/32
 
 ## Moomoo - 2024.08.31
 
