@@ -275,3 +275,45 @@ DOMAIN-SUFFIX,transferwise.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,Wise
 DOMAIN-KEYWORD,transferwise
+
+## uSMART (HK & SG) - 2024.08.05
+
+# HK
+DOMAIN-SUFFIX,www.usmart.hk
+DOMAIN-SUFFIX,hz.yxzq.com
+DOMAIN-SUFFIX,jy.yxzq.com
+DOMAIN-SUFFIX,sc.yxzq.com
+DOMAIN-SUFFIX,wj.yxzq.com
+DOMAIN-SUFFIX,m.yxzq.com
+DOMAIN-SUFFIX,web-prd-1257884527.cos.ap-guangzhou.myqcloud.com
+DOMAIN-SUFFIX,web-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
+DOMAIN-SUFFIX,web-static-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
+DOMAIN-SUFFIX,jy-common-prd-1257884527.cos.ap-guangzhou.myqcloud.com
+DOMAIN-SUFFIX,jy-common-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
+DOMAIN-SUFFIX,jy-common-rich-prd-hongkong-1305919280.cos.ap-hongkong.myqcloud.com
+DOMAIN-SUFFIX,hq-prod-news-server-1257884527.file.myqcloud.com
+DOMAIN-SUFFIX,hq-prod-news-server-1257884527.cos.ap-chengdu.myqcloud.com
+DOMAIN-SUFFIX,hq-news-server-1257884527.cos.ap-guangzhou.myqcloud.com
+DOMAIN-SUFFIX,web-static-rich-prd-hongkong-1305919280.cos.ap-hongkong.myqcloud.com
+DOMAIN-SUFFIX,mlvbdc.live.qcloud.com
+DOMAIN-SUFFIX,license.vod2.myqcloud.com
+DOMAIN-SUFFIX,yxzq.com
+DOMAIN-SUFFIX,uSmart.hk
+IP-CIDR,120.77.252.10/32,no-resolve
+IP-CIDR,120.77.150.199/32,no-resolve
+
+# SG
+DOMAIN-SUFFIX,www.usmart.sg
+DOMAIN-SUFFIX,sc.usmartsg.com
+DOMAIN-SUFFIX,jy.usmartsg.com
+DOMAIN-SUFFIX,hz.usmartsg.com
+DOMAIN-SUFFIX,m.usmartsg.com
+DOMAIN-SUFFIX,uSmartglobal.zendesk.com
+DOMAIN-SUFFIX,jy-common-sg-prd-singapore-1257884527.cos.ap-singapore.myqcloud.com
+DOMAIN-SUFFIX,uSmartsg.com
+DOMAIN-SUFFIX,uSmart.sg
+DOMAIN-SUFFIX,uSmartglobal.com
+DOMAIN-SUFFIX,uSmartgroup.com
+DOMAIN-SUFFIX,uSmart
+IP-CIDR,47.107.247.183/32,no-resolve
+IP-CIDR,47.242.214.131/32,no-resolve
